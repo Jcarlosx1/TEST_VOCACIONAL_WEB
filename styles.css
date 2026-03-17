@@ -56,6 +56,7 @@ body{
         }
 
 .final{
+    justify-content: center;
     color: #585858;
     font-size: 8px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
